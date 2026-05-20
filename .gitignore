@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+vendor/
+__pycache__/
+*.pyc
+.venv/
+
+# Build
+dist/
+build/
+.next/
+.nuxt/
+out/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Workflow tmp
+.codex/workflow/_tmp/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
